@@ -1,0 +1,3 @@
+br\com\vbr\controller\LoginForm.class
+br\com\vbr\controller\SegurancaController.class
+br\com\vbr\controller\LoginInterceptor.class
